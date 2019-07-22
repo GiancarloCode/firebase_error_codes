@@ -1,0 +1,11 @@
+name: firebase_error_codes
+description: Helper classes with Firebase error codes.
+version: 0.1.0
+author: GiancarloCode <GiancarloCode@gmail.com>
+homepage: https://github.com/GiancarloCode/firebase_error_codes
+repository: https://github.com/GiancarloCode/firebase_error_codes
+issue_tracker: https://github.com/GiancarloCode/firebase_error_codes/issues
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+

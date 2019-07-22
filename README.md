@@ -1,0 +1,1 @@
+Helper classes with Firebase error codes.
